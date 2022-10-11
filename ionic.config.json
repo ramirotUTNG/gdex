@@ -1,0 +1,8 @@
+{
+  "name": "GDEX",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "66b2624f"
+}
