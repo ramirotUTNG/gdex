@@ -11,7 +11,6 @@ export class AppComponent {
     { title: 'Proveedores', url: '/folder/Proveedores', icon: 'compass' },
     { title: 'Dashboard', url: '/folder/Dashboard', icon: 'desktop' },
     { title: 'Configuracion', url: '/folder/Configuracion', icon: 'build' },
-    
   ];
   /*public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];*/
   constructor() {}
